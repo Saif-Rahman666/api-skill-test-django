@@ -144,5 +144,20 @@ Endpoint: DELETE http://127.0.0.1:8000/api/products/1/
 Expected Response: 204 No Content if successful, or 404 Not Found if not.
 
 
-Postman Sample Screenshots
+Postman and DRF Sample Screenshots
+
+<img width="1279" alt="Screenshot 2025-06-25 at 4 42 08 pm" src="https://github.com/user-attachments/assets/15f1045c-933b-4a3f-b1a9-9908a82a5280" />
+
+<img width="1279" alt="Screenshot 2025-06-25 at 4 42 18 pm" src="https://github.com/user-attachments/assets/9827b314-5123-4345-9830-9ea3467d91e0" />
+
+<img width="1279" alt="Screenshot 2025-06-25 at 4 42 29 pm" src="https://github.com/user-attachments/assets/27f13e97-6978-432c-9454-e8d1c322c3cd" />
+
+<img width="1279" alt="Screenshot 2025-06-25 at 4 42 37 pm" src="https://github.com/user-attachments/assets/4c0db7c6-402e-43ad-be49-e4c973e07c29" />
+
+<img width="1279" alt="Screenshot 2025-06-25 at 4 42 46 pm" src="https://github.com/user-attachments/assets/8cab1435-6dcb-44cf-ba29-7c034a57bf0a" />
+<img width="1430" alt="Screenshot 2025-06-25 at 4 00 38 pm" src="https://github.com/user-attachments/assets/f6fd497e-45e5-4633-9817-e1cb422f7a97" />
+<img width="1430" alt="Screenshot 2025-06-25 at 4 03 15 pm" src="https://github.com/user-attachments/assets/ecd5468b-f2e2-450b-9245-47bea2cbad0b" />
+<img width="1430" alt="Screenshot 2025-06-25 at 4 04 07 pm" src="https://github.com/user-attachments/assets/a0392b98-8b8a-4e53-9e25-33dc4124c0e0" />
+<img width="1430" alt="Screenshot 2025-06-25 at 4 05 59 pm" src="https://github.com/user-attachments/assets/cb2e2b33-784f-4b38-b16b-05c03e07fcda" />
+
 
